@@ -162,7 +162,7 @@
                     </div>
                 </div>
                 <div class="cs-item">
-                    <div class="cs-pic set-bg" data-setbg="img/pic/pic10.jpg"></div>
+                    <div class="cs-pic set-bg" data-setbg="img/pic/pic10.JPG"></div>
                     <div class="cs-text">
                         <h4>Jollibee</h4>
                         <span style="color: black;">Our fav place to eat.</span>
@@ -183,7 +183,7 @@
                     </div>
                 </div>
                 <div class="cs-item">
-                    <div class="cs-pic set-bg" data-setbg="img/pic/pic11.jpg"></div>
+                    <div class="cs-pic set-bg" data-setbg="img/pic/pic11.JPG"></div>
                     <div class="cs-text">
                         <h4>Cute</h4>
                         <span style="color: black;">I don’t find u cute though, I think your my wife.</span>
@@ -219,80 +219,80 @@
             <div class="row">
                 <div class="col-lg-12 p-0">
                     <div class="portfolio-filter">
-                        <div class="pf-item set-bg fashion" data-setbg="img/pic/pic12.jpg">
-                            <a href="img/pic/pic12.jpg" class="pf-icon image-popup"><span class="icon_plus"></span></a>
+                        <div class="pf-item set-bg fashion" data-setbg="img/pic/pic12.JPG">
+                            <a href="img/pic/pic12.JPG" class="pf-icon image-popup"><span class="icon_plus"></span></a>
                             <div class="pf-text">
                                 <h4>WOW!</h4>
                                 <span>your body is a wonderland</span>
                             </div>
                         </div>
                         <div class="pf-item large-width large-height set-bg lifestyle"
-                            data-setbg="img/pic/pic13.jpg">
-                            <a href="img/pic/pic13.jpg" class="pf-icon image-popup"><span class="icon_plus"></span></a>
+                            data-setbg="img/pic/pic13.JPG">
+                            <a href="img/pic/pic13.JPG" class="pf-icon image-popup"><span class="icon_plus"></span></a>
                             <div class="pf-text">
                                 <h4>WOW!</h4>
                                 <span>my favorite pic so far</span>
                             </div>
                         </div>
-                        <div class="pf-item large-width set-bg natural" data-setbg="img/pic/pic14.jpg">
-                            <a href="img/pic/pic14.jpg" class="pf-icon image-popup"><span class="icon_plus"></span></a>
+                        <div class="pf-item large-width set-bg natural" data-setbg="img/pic/pic14.JPG">
+                            <a href="img/pic/pic14.JPG" class="pf-icon image-popup"><span class="icon_plus"></span></a>
                             <div class="pf-text">
                                 <h4>SAMGYUP</h4>
                                 <span>HAHAH tikalon di saton!</span>
                             </div>
                         </div>
-                        <div class="pf-item large-height set-bg wedding" data-setbg="img/pic/pic15.jpg">
-                            <a href="img/pic/pic15.jpg" class="pf-icon image-popup"><span class="icon_plus"></span></a>
+                        <div class="pf-item large-height set-bg wedding" data-setbg="img/pic/pic15.JPG">
+                            <a href="img/pic/pic15.JPG" class="pf-icon image-popup"><span class="icon_plus"></span></a>
                             <div class="pf-text">
                                 <h4>SAMGYUP</h4>
                                 <span>feeling ikaw pinaka hamot sa world!</span>
                             </div>
                         </div>
-                        <div class="pf-item set-bg lifestyle" data-setbg="img/pic/pic16.jpg">
-                            <a href="img/pic/pic16.jpg" class="pf-icon image-popup"><span class="icon_plus"></span></a>
+                        <div class="pf-item set-bg lifestyle" data-setbg="img/pic/pic16.JPG">
+                            <a href="img/pic/pic16.JPG" class="pf-icon image-popup"><span class="icon_plus"></span></a>
                             <div class="pf-text">
                                 <h4>SAMGYUP</h4>
                                 <span>pic pic lang tulog sa ka busog</span>
                             </div>
                         </div>
-                        <div class="pf-item set-bg natural" data-setbg="img/pic/pic17.jpg">
-                            <a href="img/pic/pic17.jpg" class="pf-icon image-popup"><span class="icon_plus"></span></a>
+                        <div class="pf-item set-bg natural" data-setbg="img/pic/pic17.JPG">
+                            <a href="img/pic/pic17.JPG" class="pf-icon image-popup"><span class="icon_plus"></span></a>
                             <div class="pf-text">
                                 <h4>SAMGYUP</h4>
                                 <span>cutie gdya sang smile mo babe</span>
                             </div>
                         </div>
-                        <div class="pf-item set-bg videos" data-setbg="img/pic/pic18.jpg">
-                            <a href="img/pic/pic18.jpg" class="pf-icon image-popup"><span class="icon_plus"></span></a>
+                        <div class="pf-item set-bg videos" data-setbg="img/pic/pic18.JPG">
+                            <a href="img/pic/pic18.JPG" class="pf-icon image-popup"><span class="icon_plus"></span></a>
                             <div class="pf-text">
                                 <h4>BURGER KING</h4>
                                 <span>your smile makes me weak talaga</span>
                             </div>
                         </div>
-                        <div class="pf-item set-bg fashion" data-setbg="img/pic/pic19.jpg">
-                            <a href="img/pic/pic19.jpg" class="pf-icon image-popup"><span class="icon_plus"></span></a>
+                        <div class="pf-item set-bg fashion" data-setbg="img/pic/pic19.JPG">
+                            <a href="img/pic/pic19.JPG" class="pf-icon image-popup"><span class="icon_plus"></span></a>
                             <div class="pf-text">
                                 <h4>Final defense is near..</h4>
                                 <span>Ikaw nadi ang nag bulig sakon reports sa web.</span>
                             </div>
                         </div>
-                        <div class="pf-item large-width set-bg videos" data-setbg="img/pic/pic20.jpg">
-                            <a href="img/pic/pic20.jpg" class="pf-icon image-popup"><span class="icon_plus"></span></a>
+                        <div class="pf-item large-width set-bg videos" data-setbg="img/pic/pic20.JPG">
+                            <a href="img/pic/pic20.JPG" class="pf-icon image-popup"><span class="icon_plus"></span></a>
                             <div class="pf-text">
                                 <h4>SAMGYUP</h4>
                                 <span>sarap mo talaga kasama babe.</span>
                             </div>
                         </div>
-                        <div class="pf-item set-bg fashion" data-setbg="img/pic/pic21.jpg">
-                            <a href="img/pic/pic21.jpg" class="pf-icon image-popup"><span class="icon_plus"></span></a>
+                        <div class="pf-item set-bg fashion" data-setbg="img/pic/pic21.JPG">
+                            <a href="img/pic/pic21.JPG" class="pf-icon image-popup"><span class="icon_plus"></span></a>
                             <div class="pf-text">
                                 <h4>CHRISTMAS IS NEAR</h4>
                                 <span>hahahha cutiee pa picture gd kuno mo.</span>
                             </div>
                         </div>
                         <div class="pf-item large-width large-height set-bg wedding"
-                            data-setbg="img/pic/pic22.jpg">
-                            <a href="img/pic/pic22.jpg" class="pf-icon image-popup"><span class="icon_plus"></span></a>
+                            data-setbg="img/pic/pic22.JPG">
+                            <a href="img/pic/pic22.JPG" class="pf-icon image-popup"><span class="icon_plus"></span></a>
                             <div class="pf-text">
                                 <h4>TIGER SUGAR</h4>
                                 <span>im speechless.</span>
